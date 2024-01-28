@@ -2,20 +2,18 @@
 
 My Personal Portfolio build with Vue 3, Quasar Framework
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4580dcfd-528e-492a-a101-c05098e4d471/deploy-status)](https://app.netlify.com/sites/gideonkimaiyo/deploys)
-
 ## Developer
 
-[Gideon Kimaiyo](https://www.linkedin.com/in/gideon-kimaiyo/), Software Engineer.
+[Ernivic Orate](https://www.linkedin.com/in/ernivic-orate-57741a104/), Software Engineer.
 
 ## Website
 
-Preview this project here: [Portfolio](https://portfolio.maiyo.dev).
+Preview this project here: [Portfolio](https://ernivic-orate.web.app/).
 
 ## Clone Project
 
 ```
-git clone https://github.com/gdkimaiyo/portfolio.git
+git clone https://github.com/vcui23/enivic-orate
 ```
 
 ## Install the dependencies
